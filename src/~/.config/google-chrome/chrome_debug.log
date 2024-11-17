@@ -1,0 +1,43 @@
+[1057233:1057233:1117/013403.479680:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.137 (not a warning)
+[1057233:1057233:1117/013403.721629:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[1057270:1057270:1117/013403.836948:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[1057233:1057233:1117/013404.077899:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not part of the idle inhibition specification: https://specifications.freedesktop.org/idle-inhibit-spec/latest/
+[1057318:1:1117/013405.099823:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057233:1057233:1117/013405.138655:INFO:CONSOLE(2)] "react-spring: Directly calling start instead of using the api object is deprecated in v9 (use ".start" instead), this will be removed in later 0.X.0 versions", source: https://s.winamax.fr/betting/winabet/static/js/vendors-3578e379.1a3c7c1f.js (2)
+[1057318:1:1117/013405.170980:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057233:1057233:1117/013405.240872:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[1057233:1057233:1117/013405.243302:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[1057318:1:1117/013405.267503:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013405.322530:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013405.460798:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013405.509219:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013405.824493:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013405.854746:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013405.854997:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013405.995643:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.045374:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.045748:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.046606:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057233:1057233:1117/013406.223970:INFO:CONSOLE(2)] "Received  addEventListener version = 2", source: https://s.winamax.fr/betting/winabet/static/js/vendors-71de9d17.e371377d.js (2)
+[1057318:1:1117/013406.381861:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.449520:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.486221:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.486531:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.605743:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.663204:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.663414:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.664357:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013406.722684:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013407.018965:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013407.066989:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013407.067264:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013407.068275:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013407.166771:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013407.214730:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013407.214934:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057318:1:1117/013407.215773:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057233:1057233:1117/013407.574306:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[1057233:1057233:1117/013407.574398:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[1057233:1057233:1117/013407.574751:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[1057318:1:1117/013407.582116:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[1057233:1057233:1117/013407.995747:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

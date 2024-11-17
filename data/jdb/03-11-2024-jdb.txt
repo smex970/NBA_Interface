@@ -1,0 +1,26 @@
+[['Match7', 'Terry Rozier', 'Rebonds', 2.5, 1.17, 0.9930867030068466, True, 1.01], V
+['Match7', 'Tyler Herro', 'Rebonds', 2.5, 1.1, 0.9997842266007053, True, 1.0], V
+['Match7', 'Terry Rozier', 'Points', 9.5, 1.04, 0.9999995521071341, True, 1.0], V
+['Match7', 'Jimmy Butler', 'Passes', 2.5, 1.06, 0.9503897975726652, True, 1.05], 
+['Match1', 'Derrick White', 'Points', 9.5, 1.11, 0.9841005424320578, True, 1.02], V 
+['Match1', 'LaMelo Ball', 'Points', 14.5, 1.04, 0.987098087201224, True, 1.01],  V
+['Match8', 'Christian Braun', 'Points', 4.5, 1.04, 0.9997953493371782, True, 1.0],V
+['Match8', 'Michael Porter Jr.', 'Rebonds', 2.5, 1.03, 0.9924009778538093, True, 1.01], V
+['Match5', 'Anthony Edwards', 'Points', 14.5, 1.03, 0.9985584454753129, True, 1.0],V 
+['Match5', 'Anthony Edwards', 'Rebonds', 2.5, 1.04, 0.9948436967777425, True, 1.01],V
+['Match5', 'Jeremy Sochan', 'Points', 4.5, 1.01, 0.998857860349845, True, 1.0], V
+(1.898176407983212, 0.9024541143670498)] 2.04 V
+
+[['Match1', 'Terry Rozier', 'Rebonds', 2.5, 1.17, 0.9930867030068466, True, 1.01],V
+['Match1', 'Tyler Herro', 'Rebonds', 2.5, 1.1, 0.9997842266007053, True, 1.0],V
+['Match1', 'Terry Rozier', 'Points', 9.5, 1.04, 0.9999995521071341, True, 1.0],V
+['Match1', 'Jimmy Butler', 'Passes', 2.5, 1.06, 0.9503897975726652, True, 1.05],
+['Match2', 'Christian Braun', 'Points', 4.5, 1.04, 0.9997953493371782, True, 1.0],V 
+['Match2', 'Michael Porter Jr.', 'Rebonds', 2.5, 1.03, 0.9924009778538093, True, 1.01],V
+['Match4', 'James Harden', 'Points', 9.5, 1.01, 0.9999279658563582, True, 1.0], V
+['Match4', 'James Harden', 'Passes', 4.5, 1.02, 0.9849017922363971, True, 1.02], V
+['Match4', 'Ivica Zubac', 'Rebonds', 6.5, 1.04, 0.9652772223712677, True, 1.04], V
+['Match3', 'Kevin Durant', 'Points', 14.5, 1.03, 0.9848850004886917, True, 1.02],V
+['Match4', 'Shai Gilgeous-Alexander', 'Rebonds', 2.5, 1.04, 0.9605399069869113, False, 1.04], V
+(1.7442702127413299, 0.8419919735258664)] 1.94 V
+ 

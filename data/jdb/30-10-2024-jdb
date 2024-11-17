@@ -1,0 +1,18 @@
+[['Match2', 'Total Points', -238.5, 1.2, 0.9999999348751479, True, 1.0], 
+['Match2', 'Cameron Johnson', 'Points', 4.5, 1.01, 0.996692759445094, True, 1.0],
+ ['Match2', 'Dennis Schroder', 'Points', 9.5, 1.06, 0.9522195099636233, True, 1.05],
+  ['Match3', 'Coby White', 'Passes', 2.5, 1.17, 0.9190494432363764, True, 1.09], 
+  ['Match3', 'Nikola Vucevic', 'Points', 9.5, 1.07, 0.9999999934283358, True, 1.0],
+   ['Match3', 'Josh Giddey', 'Points', 4.5, 1.03, 0.9999964681463674, True, 1.0], 
+   ['Match3', 'Zach LaVine', 'Points', 9.5, 1.02, 0.9999990110956596, True, 1.0], 
+   ['Match6', 'Scoot Henderson', 'Passes', 2.5, 1.1, 0.9740665996262006, True, 1.03], 
+   ['Match6', 'Deni Avdija', 'Rebonds', 2.5, 1.04, 0.9858616346196629, True, 1.01], 
+   ['Match6', 'DeAndre Ayton', 'Rebonds', 4.5, 1.02, 0.9999372801869931, True, 1.0], 
+   ['Match5', 'Brandon Ingram', 'Rebonds', 2.5, 1.08, 0.9764998357923386, True, 1.02], 
+   (2.1294403186198427, 0.8178710076967429)]
+
+[['Match1', 'Julian Champagnie', 'Rebonds', 2.5, 1.24, 0.9986937615512306, True, 1.0], ['Match1', 'Chet Holmgren', 'Points', 9.5, 1.04, 0.9999999984113991, True, 1.0], ['Match1', 'Shai Gilgeous-Alexander', 'Rebonds', 2.5, 1.03, 0.9968041781644996, True, 1.0], 
+['Match1', 'Chet Holmgren', 'Rebonds', 4.5, 1.03, 0.9868439553727626, True, 1.01], ['Match1', 'Jeremy Sochan', 'Points', 4.5, 1.01, 0.9999999405836455, True, 1.0], ['Match3', 'Scoot Henderson', 'Passes', 2.5, 1.1, 0.9740665996262006, True, 1.03], ['Match3', 'Ivica Zubac', 'Points', 9.5, 1.06, 1.0, True, 1.0], 
+['Match3', 'Deni Avdija', 'Rebonds', 2.5, 1.04, 0.9858616346196629, True, 1.01], ['Match3', 'DeAndre Ayton', 'Rebonds', 4.5, 1.02, 0.9999372801869931, True, 1.0], ['Match3', 'James Harden', 'Points', 9.5, 1.01, 0.9999926459046812, True, 1.0], ['Match3', 'James Harden', 'Rebonds', 2.5, 1.06, 0.9517670239194775, True, 1.05], (1.8298274914841866, 0.8978328337500159)] 2,15
+
+

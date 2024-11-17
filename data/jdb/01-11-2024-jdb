@@ -1,0 +1,7 @@
+[['Match1', 'Gary Trent Jr.', 'Points', 4.5, 1.05, 0.9999999995767992, True, 1.0], ['Match1', 'Giannis Antetokounmpo', 'Passes', 2.5, 1.04, 0.9996691299987905, True, 1.0], ['Match1', 'Damian Lillard', 'Points', 14.5, 1.05, 0.9946365361976497, True, 1.01], ['Match1', 'Giannis Antetokounmpo', 'Rebonds', 4.5, 1.01, 0.9999622496547909, True, 1.0], ['Match1', 'Brook Lopez', 'Points', 4.5, 1.04, 0.9631580686712293, True, 1.04],
+['Match2', 'Luka Doncic', 'Rebonds', 4.5, 1.05, 0.9999956949732479, True, 1.0], 
+['Match2', 'Jalen Green', 'Points', 9.5, 1.01, 0.9994619355302774, True, 1.0], 
+['Match4', 'Kevin Durant', 'Points', 14.5, 1.03, 0.99999988514719, True, 1.0], 
+['Match4', 'James Harden', 'Points', 9.5, 1.01, 0.999474779218807, True, 1.0], 
+['Match4', 'Ivica Zubac', 'Rebonds', 4.5, 1.02, 0.9859995066252581, True, 1.01], ['Match4', 'Kevin Durant', 'Rebonds', 2.5, 1.04, 0.9682924086769588, True, 1.03], (1.4095141267751528, 0.9133164181608519)] 1.48
+

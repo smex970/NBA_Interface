@@ -1,0 +1,95 @@
+Match1;Charlotte Hornets;Boston Celtics;PointsMatch;218.5;1.19;219.5;1.21;220.5;1.24;221.5;1.27;-241.5;1.28;-242.5;1.25;-243.5;1.22;-244.5;1.2
+Jayson Tatum;Points;14.5;1.01;19.5;1.08;Rebonds;4.5;1.04;6.5;1.21;Passes;2.5;1.06
+LaMelo Ball;Points;14.5;1.04;19.5;1.19;Rebonds;2.5;1.05;Passes;2.5;1.03;4.5;1.24
+Miles Bridges;Points;9.5;1.12;Rebonds;2.5;1.03;4.5;1.22
+Derrick White;Points;9.5;1.11;Rebonds;2.5;1.2;Passes;2.5;1.26
+Jrue Holiday;Points;4.5;1.05;Rebonds;2.5;1.15;Passes;2.5;1.25
+Al Horford;Points;4.5;1.28;Rebonds;2.5;1.06
+Match2;Philadelphia 76ers;Memphis Grizzlies;PointsMatch;210.5;1.19;211.5;1.22;212.5;1.24;213.5;1.27;-233.5;1.28;-234.5;1.26;-235.5;1.23;-236.5;1.21
+Tyrese Maxey;Points;14.5;1.01;19.5;1.05;24.5;1.23;Rebonds;2.5;1.25;Passes;2.5;1.04;4.5;1.28
+Ja Morant;Points;9.5;1.01;14.5;1.08;Rebonds;2.5;1.09;Passes;4.5;1.06;6.5;1.29
+Jaren Jackson Jr.;Points;9.5;1.02;14.5;1.17;Rebonds;2.5;1.07
+Kelly Oubre Jr.;Points;9.5;1.05;Rebonds;2.5;1.09
+Caleb Martin;Points;4.5;1.03;Rebonds;2.5;1.12
+Santi Aldama;Points;4.5;1.04;Rebonds;2.5;1.02;4.5;1.14
+Jaylen Wells;Points;4.5;1.04;Rebonds;2.5;1.15
+Andre Drummond;Points;4.5;1.06;Rebonds;6.5;1.02;9.5;1.19
+Zach Edey;Points;4.5;1.18;Rebonds;2.5;1.03;4.5;1.24
+Match3;Toronto Raptors;Sacramento Kings;PointsMatch;221.5;1.19;222.5;1.21;223.5;1.24;224.5;1.27;-244.5;1.28;-245.5;1.26;-246.5;1.23;-247.5;1.21
+RJ Barrett;Points;14.5;1.04;19.5;1.2;Rebonds;2.5;1.04;Passes;2.5;1.04
+De'Aaron Fox;Points;14.5;1.04;19.5;1.24;Rebonds;2.5;1.11;Passes;2.5;1.08
+DeMar DeRozan;Points;9.5;1.01;14.5;1.09;Rebonds;2.5;1.17;Passes;2.5;1.25
+Gradey Dick;Points;9.5;1.04;14.5;1.29
+Domantas Sabonis;Points;9.5;1.05;Rebonds;6.5;1.01;9.5;1.12;Passes;2.5;1.04
+Jakob Poeltl;Points;4.5;1.01;9.5;1.13;Rebonds;4.5;1.01;6.5;1.04
+Keegan Murray;Points;4.5;1.02;9.5;1.22;Rebonds;2.5;1.02;4.5;1.18
+Malik Monk;Points;4.5;1.02;9.5;1.24;Passes;2.5;1.27
+Davion Mitchell;Points;4.5;1.07;Passes;2.5;1.05
+Kevin Huerter;Points;4.5;1.13
+Match4;Milwaukee Bucks;Cleveland Cavaliers;PointsMatch;218.5;1.19;219.5;1.22;220.5;1.25;221.5;1.27;-241.5;1.28;-242.5;1.25;-243.5;1.23;-244.5;1.21
+Giannis Antetokounmpo;Points;14.5;1.01;19.5;1.07;24.5;1.28;Rebonds;4.5;1.01;6.5;1.04;9.5;1.29;Passes;2.5;1.04
+Donovan Mitchell;Points;14.5;1.03;19.5;1.19;Rebonds;2.5;1.27;Passes;2.5;1.1
+Damian Lillard;Points;9.5;1.01;14.5;1.1;Rebonds;2.5;1.22;Passes;2.5;1.02;4.5;1.18
+Darius Garland;Points;9.5;1.04;14.5;1.29;Passes;2.5;1.04
+Jarrett Allen;Points;4.5;1.02;9.5;1.21;Rebonds;4.5;1.02;6.5;1.11
+Evan Mobley;Points;4.5;1.02;9.5;1.21;Rebonds;2.5;1.01;4.5;1.07
+Bobby Portis;Points;4.5;1.02;9.5;1.22;Rebonds;2.5;1.01;4.5;1.07
+Brook Lopez;Points;4.5;1.04;Rebonds;2.5;1.15
+Gary Trent Jr.;Points;4.5;1.07
+Caris LeVert;Points;4.5;1.08
+Taurean Prince;Points;4.5;1.24;Rebonds;2.5;1.27
+Dean Wade;Rebonds;2.5;1.28
+Match5;San Antonio Spurs;Minnesota Timberwolves;PointsMatch;200.5;1.19;201.5;1.21;202.5;1.24;203.5;1.27;-223.5;1.28;-224.5;1.26;-225.5;1.23;-226.5;1.21
+Anthony Edwards;Points;14.5;1.03;19.5;1.16;Rebonds;2.5;1.04;Passes;2.5;1.1
+Victor Wembanyama;Points;9.5;1.01;14.5;1.07;Rebonds;4.5;1.02;6.5;1.09;Passes;2.5;1.24
+Julius Randle;Points;9.5;1.02;14.5;1.18;Rebonds;2.5;1.02;4.5;1.15;Passes;2.5;1.06
+Jeremy Sochan;Points;4.5;1.01;9.5;1.17;Rebonds;2.5;1.02;4.5;1.15
+Keldon Johnson;Points;4.5;1.03;Rebonds;2.5;1.13
+Harrison Barnes;Points;4.5;1.05
+Naz Reid;Points;4.5;1.06;Rebonds;2.5;1.11
+Rudy Gobert;Points;4.5;1.07;Rebonds;4.5;1.01;6.5;1.06
+Chris Paul;Points;4.5;1.08;Passes;2.5;1.01;4.5;1.1
+Jaden McDaniels;Points;4.5;1.13
+Julian Champagnie;Points;4.5;1.24
+Match6;Houston Rockets;Golden State Warriors;PointsMatch;203.5;1.18;204.5;1.21;205.5;1.23;206.5;1.26;207.5;1.29;-226.5;1.29;-227.5;1.26;-228.5;1.23;-229.5;1.21
+Jalen Green;Points;9.5;1.01;14.5;1.07;Rebonds;2.5;1.05
+Alperen Sengun;Points;9.5;1.05;Rebonds;4.5;1.02;6.5;1.09;Passes;2.5;1.25
+Andrew Wiggins;Points;9.5;1.06;Rebonds;2.5;1.15
+Fred VanVleet;Points;9.5;1.09;Rebonds;2.5;1.25;Passes;2.5;1.02;4.5;1.17
+Brandin Podziemski;Points;4.5;1.03;Rebonds;2.5;1.06;Passes;2.5;1.1
+Jabari Smith;Points;4.5;1.03;Rebonds;2.5;1.01;4.5;1.12
+Dillon Brooks;Points;4.5;1.04;Rebonds;2.5;1.26
+Trayce Jackson-Davis;Points;4.5;1.18;Rebonds;2.5;1.09
+Draymond Green;Rebonds;2.5;1.05;Passes;2.5;1.05
+Match7;Washington Wizards;Miami Heat;PointsMatch;211.5;1.19;212.5;1.21;213.5;1.24;214.5;1.26;-234.5;1.28;-235.5;1.25;-236.5;1.23;-237.5;1.21
+Jordan Poole;Points;9.5;1.01;14.5;1.07;Passes;2.5;1.02;4.5;1.18
+Tyler Herro;Points;9.5;1.02;14.5;1.18;Rebonds;2.5;1.1;Passes;2.5;1.1
+Jimmy Butler;Points;9.5;1.03;14.5;1.23;Rebonds;2.5;1.06;Passes;2.5;1.06
+Terry Rozier;Points;9.5;1.04;14.5;1.29;Rebonds;2.5;1.17;Passes;2.5;1.15
+Bam Adebayo;Points;9.5;1.09;Rebonds;4.5;1.02;6.5;1.09
+Bilal Coulibaly;Points;4.5;1.01;9.5;1.18;Rebonds;2.5;1.1
+Match8;Denver Nuggets;Utah Jazz;PointsMatch;206.5;1.19;207.5;1.21;208.5;1.24;209.5;1.27;-229.5;1.28;-230.5;1.25;-231.5;1.23;-232.5;1.2
+Michael Porter Jr.;Points;9.5;1.06;Rebonds;2.5;1.03;4.5;1.22
+Keyonte George;Points;9.5;1.07;Passes;2.5;1.06
+Aaron Gordon;Points;9.5;1.07;Rebonds;2.5;1.03;4.5;1.24;Passes;2.5;1.28
+Christian Braun;Points;4.5;1.04;Rebonds;2.5;1.15
+Kyle Filipowski;Points;4.5;1.11;Rebonds;2.5;1.11
+Walker Kessler;Points;4.5;1.19;Rebonds;4.5;1.04;6.5;1.19
+Cody Williams;Points;4.5;1.28
+Match9;Phoenix Suns;Portland Trail Blazers;PointsMatch;212.5;1.2;213.5;1.22;214.5;1.25;215.5;1.28;-234.5;1.29;-235.5;1.26;-236.5;1.24;-237.5;1.21;-238.5;1.19
+Kevin Durant;Points;14.5;1.03;19.5;1.15;Rebonds;2.5;1.04;4.5;1.27
+Devin Booker;Points;14.5;1.03;19.5;1.16;Passes;2.5;1.09
+Anfernee Simons;Points;9.5;1.02;14.5;1.15;Passes;2.5;1.08
+Bradley Beal;Points;9.5;1.07;Rebonds;2.5;1.26;Passes;2.5;1.24
+Tyus Jones;Points;4.5;1.08;Passes;2.5;1.01;4.5;1.08
+Jusuf Nurkic;Points;4.5;1.16;Rebonds;4.5;1.05;6.5;1.23
+Match10;Los Angeles Clippers;Oklahoma City Thunder;PointsMatch;207.5;1.2;208.5;1.23;209.5;1.25;210.5;1.28;-230.5;1.27;-231.5;1.24;-232.5;1.22;-233.5;1.19
+Shai Gilgeous-Alexander;Points;14.5;1.02;19.5;1.1;Rebonds;2.5;1.04;Passes;2.5;1.05
+James Harden;Points;9.5;1.01;14.5;1.09;Rebonds;2.5;1.04;4.5;1.26;Passes;4.5;1.02;6.5;1.1
+Norman Powell;Points;9.5;1.03;14.5;1.23
+Jalen Williams;Points;9.5;1.04;14.5;1.27;Rebonds;2.5;1.08;Passes;2.5;1.1
+Chet Holmgren;Points;9.5;1.06;Rebonds;4.5;1.03;6.5;1.17
+Ivica Zubac;Points;4.5;1.01;9.5;1.15;Rebonds;6.5;1.04;9.5;1.27
+Derrick Jones Jr.;Points;4.5;1.09;Rebonds;2.5;1.27
+Luguentz Dort;Points;4.5;1.13
+Terance Mann;Points;4.5;1.24;Rebonds;2.5;1.27

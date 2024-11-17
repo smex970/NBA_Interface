@@ -1,0 +1,36 @@
+Match1;Memphis Grizzlies;Milwaukee Bucks;PointsMatch
+Giannis Antetokounmpo;Points;14.5;1.01;19.5;1.09;Rebonds;4.5;1.01;6.5;1.04;Passes;2.5;1.04;4.5;1.27
+Damian Lillard;Points;14.5;1.05;19.5;1.28;Rebonds;2.5;1.28;Passes;2.5;1.02;4.5;1.19
+Ja Morant;Points;9.5;1.02;14.5;1.18;Rebonds;2.5;1.12;Passes;2.5;1.03;4.5;1.21
+Desmond Bane;Points;9.5;1.03;14.5;1.23;Rebonds;2.5;1.14;Passes;2.5;1.25
+Bobby Portis;Points;4.5;1.02;9.5;1.24;Rebonds;2.5;1.01;4.5;1.07
+Brook Lopez;Points;4.5;1.04;Rebonds;2.5;1.15
+Gary Trent Jr.;Points;4.5;1.05
+Taurean Prince;Points;4.5;1.21;Rebonds;2.5;1.27
+Zach Edey;Points;4.5;1.26;Rebonds;2.5;1.07
+Match2;Dallas Mavericks;Houston Rockets;PointsMatch
+Luka Doncic;Points;19.5;1.04;24.5;1.2;Rebonds;4.5;1.05;6.5;1.24;Passes;4.5;1.05;6.5;1.26
+Kyrie Irving;Points;9.5;1.01;14.5;1.07;Rebonds;2.5;1.2;Passes;2.5;1.08
+Jalen Green;Points;9.5;1.01;14.5;1.07;Rebonds;2.5;1.08
+Alperen Sengun;Points;9.5;1.06;Rebonds;4.5;1.03;6.5;1.16;Passes;2.5;1.25
+Fred VanVleet;Points;9.5;1.09;Passes;2.5;1.02;4.5;1.18
+Klay Thompson;Points;4.5;1.01;9.5;1.18
+Jabari Smith;Points;4.5;1.04;Rebonds;2.5;1.02;4.5;1.17
+PJ Washington;Points;4.5;1.05;Rebonds;2.5;1.03;4.5;1.25
+Dillon Brooks;Points;4.5;1.07
+Daniel Gafford;Points;4.5;1.17;Rebonds;2.5;1.03;4.5;1.22
+Match3;Utah Jazz;San Antonio Spurs;PointsMatch
+Victor Wembanyama;Points;9.5;1.01;14.5;1.07;Rebonds;4.5;1.01;6.5;1.05;Passes;2.5;1.2
+Lauri Markkanen;Points;9.5;1.01;14.5;1.1;Rebonds;2.5;1.01;4.5;1.12
+Jeremy Sochan;Points;4.5;1.01;9.5;1.12;Rebonds;2.5;1.01;4.5;1.11
+Harrison Barnes;Points;4.5;1.04
+Julian Champagnie;Points;4.5;1.11;Rebonds;2.5;1.21
+Chris Paul;Points;4.5;1.14;Passes;2.5;1.02;4.5;1.16
+Match4;Los Angeles Clippers;Phoenix Suns;PointsMatch
+Kevin Durant;Points;14.5;1.03;19.5;1.16;Rebonds;2.5;1.04;4.5;1.26
+Devin Booker;Points;14.5;1.05;19.5;1.26;Passes;2.5;1.11
+James Harden;Points;9.5;1.01;14.5;1.07;Rebonds;2.5;1.09;Passes;4.5;1.02;6.5;1.13
+Norman Powell;Points;9.5;1.03;14.5;1.23
+Bradley Beal;Points;9.5;1.09;Passes;2.5;1.27
+Ivica Zubac;Points;9.5;1.1;Rebonds;4.5;1.02;6.5;1.09
+Derrick Jones Jr.;Points;4.5;1.11
