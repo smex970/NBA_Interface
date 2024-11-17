@@ -1,0 +1,75 @@
+[15364:15364:1117/184406.618053:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.137 (not a warning)
+[15364:15364:1117/184406.769675:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[15402:15402:1117/184406.863152:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[15364:15364:1117/184407.114754:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not part of the idle inhibition specification: https://specifications.freedesktop.org/idle-inhibit-spec/latest/
+[15444:1:1117/184408.332783:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184408.332993:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15364:15364:1117/184408.374168:INFO:CONSOLE(2)] "react-spring: Directly calling start instead of using the api object is deprecated in v9 (use ".start" instead), this will be removed in later 0.X.0 versions", source: https://s.winamax.fr/betting/winabet/static/js/vendors-3578e379.1a3c7c1f.js (2)
+[15444:1:1117/184408.409136:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184408.409354:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15364:15364:1117/184408.467079:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[15364:15364:1117/184408.468175:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[15444:1:1117/184408.486449:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184408.520260:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184408.520550:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184408.608044:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184409.171101:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184409.198421:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184409.198599:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184409.537464:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184409.611737:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184409.611918:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184409.612590:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15364:15364:1117/184409.938493:INFO:CONSOLE(2)] "Received  addEventListener version = 2", source: https://s.winamax.fr/betting/winabet/static/js/vendors-71de9d17.e371377d.js (2)
+[15444:1:1117/184410.106031:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.156719:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.156877:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.166575:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.219708:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.219951:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.271562:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.323051:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.323317:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.383716:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.447930:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.448194:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.448865:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.815902:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.880685:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.880896:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.881565:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184410.978005:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184411.043567:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184411.043731:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184411.044404:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15364:15364:1117/184411.472469:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[15364:15364:1117/184411.472618:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[15364:15364:1117/184411.472655:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://s.winamax.fr/betting/winabet/static/js/vendors-15fad1d3.a86d60da.js (2)
+[15444:1:1117/184411.481221:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.512282:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.548153:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.548441:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.548733:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.617557:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.722816:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.772579:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.804057:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184412.804380:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184413.108352:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184413.140184:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184413.140447:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184413.140768:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184413.260908:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184414.481127:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184414.956379:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184414.989648:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184414.989808:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184414.990057:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184415.134498:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184416.329875:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184416.720823:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184417.515748:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15444:1:1117/184417.866853:INFO:document_style_environment_variables.cc(78)] E2E_Used SafeAreaInsetBottom
+[15404:15409:1117/184418.677339:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[15404:15409:1117/184418.677419:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[15364:15364:1117/184418.694714:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

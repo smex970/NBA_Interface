@@ -2,9 +2,9 @@ from joueur import Joueur
 
 class Bonus():
     
-    def __init__(self, fichier_stats):
+    def __init__(self, fichier_stats): #date):
         self.Joueur = Joueur(fichier_stats)
-    
+        #self.date = date 
     def getBonusPoints(self, joueur, cut):
         pourcentage_moyen = self.Joueur.getPourcentageMoyenTir(joueur)
         record = self.Joueur.getRecord(joueur, cut, 'Points')

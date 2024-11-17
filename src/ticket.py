@@ -13,11 +13,11 @@ class Ticket:
     def __init__(self, ProbaEvenementMin, nbEvenementMax, fichier_cotes, fichier_equipes, fichier_stats):
         self.fichier_stats = fichier_stats
         self.nbEvenementMax = nbEvenementMax
+        self.date = str(fichier_cotes).split('/')[-1]
         self.Combinaison = Combinaison(fichier_stats, fichier_cotes, fichier_equipes, ProbaEvenementMin)
         #self.events_value = self.getValueEvents()
-        self.events = self.getAllEventsWithValue()
+        self.events = self.Combinaison.getEventsDate(self.date)
         self.flat_events = self.getFlatEvents()
-        self.date = str(fichier_cotes).split('/')[-1]
         
         
     def getAllEventsWithValue(self):
@@ -139,12 +139,12 @@ class Ticket:
         return tickets
 
 
-file_cote = P.getFichierCotes('17-11-2024')
+file_cote = P.getFichierCotes('18-11-2024')
 file_stat = P.getFichierDossierData('Statistiques_Joueurs.xlsx')
 file_equipes = P.getFichierEquipes()
 
 T = Ticket(0.93, 10, file_cote, file_equipes, file_stat)
-p = 0.7
+p = 0.75
 nbre_ticket = 0
 G = T.applyBonus(T.ticketProbaNOpti(p, nbre_ticket))
 print(G)

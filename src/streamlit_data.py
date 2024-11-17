@@ -17,6 +17,7 @@ class streamlit_data:
         stats =[]
         calc_odds =[]
         dates = []
+        minutes = []
         fichiers = self.P.getFichiersCote()
         for fichier in fichiers:
             stat = self.Joueur.getStatDate(joueur, fichier, categorie)
@@ -27,14 +28,17 @@ class streamlit_data:
                         odd = self.extractCote(self.P.getFichierCotes(fichier), joueur, categorie, cut)
                         if odd != False:
                             odds.append(odd)
-                            Combi = Combinaison(self.file_stats, self.P.getFichierCotes(fichier), self.file_teams, 0.9)
-                            calc_odd = 1/Combi.probaCutJoueurAvantDate(joueur, categorie, cut, fichier)
-                            calc_odds.append(round(calc_odd, 4))
-                            dates.append(fichier)
-                            stats.append(stat)
+                        else :
+                            odds.append(None)
+                        Combi = Combinaison(self.file_stats, self.P.getFichierCotes(fichier), self.file_teams, 0.9)
+                        calc_odd = 1/Combi.probaCutJoueurAvantDate(joueur, categorie, cut, fichier)
+                        calc_odds.append(round(calc_odd, 4))
+                        dates.append(fichier)
+                        stats.append(stat)
+                        minutes.append(self.Joueur.getMinDate(joueur, fichier))
         if len(dates) != 0:
-            Dates_sorted, Cotes_sorted, Stats_sorted, Cal_Cote_sorted = zip(*sorted(zip(dates, odds, stats, calc_odds), key=lambda x: datetime.strptime(x[0], '%d-%m-%Y')))
-            return Dates_sorted, Cotes_sorted, Stats_sorted, Cal_Cote_sorted
+            Dates_sorted, Cotes_sorted, Stats_sorted, Cal_Cote_sorted, Minutes_Sorted= zip(*sorted(zip(dates, odds, stats, calc_odds, minutes), key=lambda x: datetime.strptime(x[0], '%d-%m-%Y')))
+            return Dates_sorted, Cotes_sorted, Stats_sorted, Cal_Cote_sorted, Minutes_Sorted
         else: 
             return None
    
@@ -78,12 +82,17 @@ class streamlit_data:
                     if cut not in cuts :
                         cuts.append(cut)
         return cuts
+    
+    def getAllMin(self, joueur, categorie, cut):
+        return self.getAllOddsStats(joueur, categorie, cut)[4]
+
         
 S = streamlit_data()
 #PT = PathManager()
 #file = PT.getFichierCotes('09-11-2024')
-g = (S.getAllOddsStats('Luka Doncic', 'Rebonds', 4.5))
+g = (S.getAllOddsStats('Nikola Vucevic', 'Points', 14.5))
 #g = S.getAllCuts('LeBron James', 'Points')
+#g = S.getAllMin('Nikola Vucevic')
 print(g)
 #for G in g :
 #    print(G)

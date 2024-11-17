@@ -82,4 +82,30 @@ class Equipe:
         n_Equipe2 = len(self.getPtsTotal(Equipe2))
         e_total = math.sqrt(((n_Equipe1 - 1) * e_Equipe1**2 + (n_Equipe2 - 1) * e_Equipe2**2) / (n_Equipe1 + n_Equipe2 - 2))
         return e_total
-    
+
+#--------------------------------------Avant Date--------------------------------------#
+    def getPtsEquipeAvantDate(self, Equipe, date):
+        return self.Joueur.getPointsEquipeAvantDate(self.joueurMaxMatch(Equipe), date)
+
+    def getPtsEquipeEncaisseAvantDate(self, Equipe, date):
+        return self.Joueur.getPointsEquipeContreAvantDate(self.joueurMaxMatch(Equipe), date)
+
+    def getPtsTotalAvantDate(self, Equipe, date):
+        ptsIn = self.getPtsEquipeAvantDate(Equipe, date)
+        ptsContre = self.getPtsEquipeEncaisseAvantDate(Equipe, date)
+        PtsTotal = [x + y for x,y in zip (ptsIn, ptsContre)]
+        return PtsTotal
+
+    def getMoyenneDeuxEquipesAvantDate(self, Equipe1, Equipe2, date):
+        m_Equipe1 = statistics.mean(self.getPtsTotalAvantDate(Equipe1, date))
+        m_Equipe2 = statistics.mean(self.getPtsTotalAvantDate(Equipe2, date))
+        m_total = (m_Equipe1 + m_Equipe2)/2
+        return m_total
+
+    def getEcartTypeDeuxEquipesAvantDate(self, Equipe1, Equipe2, date):
+        e_Equipe1 = statistics.stdev(self.getPtsTotalAvantDate(Equipe1, date))
+        e_Equipe2 = statistics.stdev(self.getPtsTotalAvantDate(Equipe2, date))
+        n_Equipe1 = len(self.getPtsTotalAvantDate(Equipe1, date))
+        n_Equipe2 = len(self.getPtsTotalAvantDate(Equipe2, date))
+        e_total = math.sqrt(((n_Equipe1 - 1) * e_Equipe1**2 + (n_Equipe2 - 1) * e_Equipe2**2) / (n_Equipe1 + n_Equipe2 - 2))
+        return e_total   

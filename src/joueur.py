@@ -282,6 +282,7 @@ class Joueur:
         return paniers/5
 
 #--------------------------------------Avant Date--------------------------------------#
+    #------------------------------------------------------Lecture Fichier------------------------------------------------------
     def getPtsDate(self, joueur, date): #date au format dd-mm-aaaa
         DatesToTest = self.getDate(joueur)
         Points = self.getPts(joueur)
@@ -307,6 +308,15 @@ class Joueur:
         for i in range(len(Passes)):
             if self.Date.isSameDate(date, DatesToTest[i]):
                 return Passes[i]
+        return False
+
+    def getMinDate(self, joueur, date):
+        DatesToTest = self.getDate(joueur)
+        Min = self.getMin(joueur)
+        assert(len(Min) == len(DatesToTest))
+        for i in range(len(Min)):
+            if self.Date.isSameDate(date, DatesToTest[i]):
+                return Min[i]
         return False
 
     def getStatDate(self, joueur, date, categorie):
@@ -363,6 +373,21 @@ class Joueur:
                 NbMatchAvantDate+=1
         
         return NbMatchAvantDate
+    
+    
+    def getPaniersReussi(self, joueur):
+        stats = self.lireStats(joueur)
+        deux_points = stats.iloc[:, 7]
+        trois_points = stats.iloc[:, 8]
+        paniers = 0
+        assert(len(deux_points) == len(trois_points))
+        
+        for i in range(len(deux_points)):
+            parties = deux_points[i].split('-')
+            paniers += int(parties[0])
+            parties = trois_points[i].split('-')
+            paniers += int(parties[0])
+        return paniers
 
     def getAdversairesAvantDate(self, joueur, date):
         adversairesAvantDate = []

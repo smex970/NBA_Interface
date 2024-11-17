@@ -21,10 +21,10 @@ class streamlit_interface:
             cut = st.selectbox('Choisi un cut', cuts, index=0, key='cut_selectbox')
 
             if cut is not None and self.S.getAllOddsStats(joueur, categorie, cut) is not None:
-                Dates, Cotes, Stats, Cal_Cote = self.S.getAllOddsStats(joueur, categorie, cut)
-                self.update_interface(Dates, Cotes, Stats, Cal_Cote, joueur, cut, categorie)
+                Dates, Cotes, Stats, Cal_Cote, Minutes = self.S.getAllOddsStats(joueur, categorie, cut)
+                self.update_interface(Dates, Cotes, Stats, Cal_Cote, joueur, cut, categorie, Minutes)
 
-    def update_interface(self, Dates, Cotes, Stats, Cal_Cote, joueur, cut, categorie):
+    def update_interface(self, Dates, Cotes, Stats, Cal_Cote, joueur, cut, categorie, Minutes):
         # Créer une figure Plotly
         fig1 = go.Figure()  # Premier graphique (Cotes et Cal_Cote)
         fig2 = go.Figure()  # Deuxième graphique (Stats)
@@ -55,6 +55,15 @@ class streamlit_interface:
             mode='lines+markers+text',
             name='Stats',
             text=Stats,  # Affichage des valeurs de Stats sur les points
+            textposition='top center'
+        ))
+
+        fig1.add_trace(go.Scatter(
+            x = Dates,
+            y = Minutes,
+            mode='lines+markers+text',
+            name='Minutes',
+            text=Minutes,  # Affichage des valeurs de Stats sur les points
             textposition='top center'
         ))
 
