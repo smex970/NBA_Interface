@@ -30,6 +30,7 @@ class GameDataScrapper:
         chrome_options.add_argument(f"--profile-directory={profile_name}")
         chrome_options.add_argument("--no-first-run")  # Éviter les invites lors du premier démarrage
         chrome_options.add_argument("--disable-gpu")  # Désactiver l'accélération GPU
+        #chrome_options.add_argument("--headless")  # Exécute Chrome en mode headless si nécessaire
         fichier_extension = P.getFichierDossierExtension('idontcareaboutcookies.crx')
         chrome_options.add_extension(fichier_extension)
         service = ChromeService(ChromeDriverManager().install())
@@ -37,9 +38,7 @@ class GameDataScrapper:
         
         self.driver = webdriver.Chrome(service = service, options =chrome_options)
         try:
-            print("Chargement de l'URL...")
             self.driver.get(self.url)
-            print("URL chargée.")
         except Exception as e:
             print(f"Erreur lors du chargement de l'URL : {e}")
         

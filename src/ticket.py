@@ -139,12 +139,12 @@ class Ticket:
         return tickets
 
 
-file_cote = P.getFichierCotes('18-11-2024')
+file_cote = P.getFichierCotes('19-11-2024')
 file_stat = P.getFichierDossierData('Statistiques_Joueurs.xlsx')
 file_equipes = P.getFichierEquipes()
 
-T = Ticket(0.93, 10, file_cote, file_equipes, file_stat)
-p = 0.75
+T = Ticket(0.95, 10, file_cote, file_equipes, file_stat)
+p = 0.72
 nbre_ticket = 0
 G = T.applyBonus(T.ticketProbaNOpti(p, nbre_ticket))
 print(G)

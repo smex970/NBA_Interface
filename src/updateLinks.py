@@ -19,7 +19,7 @@ file_path = P.getFichierCotes('tab')
 class UpdateLinks:
     def __init__(self, url):
         chrome_options = Options()
-        #chrome_options.add_argument("--headless")  # Exécute Chrome en mode headless si nécessaire
+        chrome_options.add_argument("--headless")  # Exécute Chrome en mode headless si nécessaire
         chrome_options.add_argument("--disable-gpu")  # Désactiver l'accélération GPU
         chrome_options.add_argument("--no-sandbox")
         chrome_options.add_argument("--disable-dev-shm-usage")

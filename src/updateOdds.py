@@ -44,6 +44,7 @@ class UpdateOdds :
             try:
                 data = G.getDataGame()
                 self.write_match(data, i + 1)
+                print(f'{i+1}/{self.nb_match}')
             except Exception as e:
                 print(f"Erreur pour l'URL {self.urls[i]}: {e}")
             sleep(2)

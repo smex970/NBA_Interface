@@ -17,6 +17,7 @@ class GameUrlScrapper:
         user_data_dir = '~/.config/google-chrome'
         profile_name = "Profile 1"  # Nom du profil spécifique
         # Utiliser le répertoire de données utilisateur et le profil spécifique
+        #chrome_options.add_argument("--headless")  # Exécute Chrome en mode headless si nécessaire
         chrome_options.add_argument(f"--user-data-dir={user_data_dir}")
         chrome_options.add_argument(f"--profile-directory={profile_name}")
         chrome_options.add_argument("--disable-gpu")  # Désactiver l'accélération GPU

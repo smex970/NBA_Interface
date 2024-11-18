@@ -11,13 +11,13 @@ P = PathManager()
 url_proballers = "https://www.proballers.com/fr"
 
 url_winamax = 'https://www.winamax.fr/paris-sportifs/sports/2/15/177'
-nb_match = 9
+nb_match = 7
 
 fichier_joueur = P.getFichierJoueurs()
 fichier_equipes = P.getFichierEquipes()
 fichier_joueur_erreur = P.getFichierJoueursErreur()
 
-fichier_cote = P.getFichierCotes("18-11-2024")
+fichier_cote = P.getFichierCotes("19-11-2024")
 
 
 if not os.path.exists(fichier_cote):

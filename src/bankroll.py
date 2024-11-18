@@ -38,14 +38,19 @@ class Bankroll:
         total = self.nSimulation()    
         return total/self.capital
 
-inter_c = (1.73, 1.74)
-inter_p =(0.68, 0.69)
+cote = 1.37
+proba = 0.77
+inter_c = (cote, cote)
+inter_p =(proba, proba)
 b = Bankroll(60, 20, inter_c, inter_p)
-#print(b.miseIdeal(0.69, 1.79))
+print(b.miseIdeal(proba, cote))
 print(b.nSimulation())
 
-inter_c = (1.67, 1.68)
-inter_p =(0.72, 0.73)
+
+cote = 1.62
+proba = 0.68
+inter_c = (cote, cote)
+inter_p =(proba, proba)
 b = Bankroll(60, 20, inter_c, inter_p)
-#print(b.miseIdeal(0.69, 1.79))
+print(b.miseIdeal(proba, cote))
 print(b.nSimulation())
